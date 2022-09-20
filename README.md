@@ -5,7 +5,7 @@ A Full Stack Web developer🎯 and designer🌈 from India.
 - 📚 What do I believe? Jack of all, Master of some.
 
 
-**Languages:**  
+**Technologies:**  
 
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
