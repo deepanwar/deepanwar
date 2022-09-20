@@ -7,14 +7,15 @@ A Full Stack Web developer🎯 and designer🌈 from India.
 
 **Languages:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
 
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=deepanwar&theme=tokyonight&show_icons=true&hide=["issues"])
