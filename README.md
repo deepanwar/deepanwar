@@ -1,7 +1,7 @@
 ### Hi there, I'm Deepak👦,
 A Full Stack Web developer🎯 and designer🌈 from India.
 
-- 👨‍💻 Currently Learning Full Stack MERN Development
+- 👨‍💻 Currently Learning Redux.
 - 📚 What do I believe? Jack of all, Master of some.
 
 
