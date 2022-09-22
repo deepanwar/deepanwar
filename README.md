@@ -29,7 +29,7 @@ A Full Stack Web developer🎯 and designer🌈 from India.
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website--blue?style=flat-square&logo=google-chrome"></a> -->
 <!--<a href="https://www.linkedin.com/in/piyush-eon/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin"></a>-->
 <!--<a href="https://www.instagram.com/piyush.vo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--blue?style=flat-square&logo=instagram"></a>-->
-<a href="mailto:piyushagarwalvo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-deep.kmr.oct@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:deep.kmr.oct@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-deep.kmr.oct@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
  <!--⭐️ From [Deepak Kumar](https://github.com/deepanwar)-->
