@@ -1,7 +1,7 @@
 ### Hi there, I'm Deepak👦,
 A Frontend Web developer🎯 and designer🌈 from India.
 
-- 👨‍💻 Currently Learning Redux.
+- 👨‍💻 Currently Learning Redux Advance.
 - 📚 What do I believe? Jack of all, Master of some.
 
 
