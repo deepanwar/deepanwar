@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on YouTube clone<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning Redux Toolkit<br>⚡ Fun fact "The best way to optimize code is to delete it and start over."<br><br>
+🔭 I’m currently working on YouTube clone<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning Redux Toolkit<br>⚡ Fun fact "The best way to optimize code is to delete it and start over."<br>🫳 Love to help you.<br><br>
 
 
 ## 🌐 Socials:
